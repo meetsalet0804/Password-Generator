@@ -63,7 +63,7 @@ https://meetsalet0804.github.io/Password-Generator/
 ## 📂 GitHub Repository
 
 **Repository:**
-
+https://github.com/meetsalet0804/Password-Generator
 
 ---
 
